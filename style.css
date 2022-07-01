@@ -31,6 +31,9 @@
 
   /* Animation */
   --animation-duration: 300ms;
+
+  /* Scroll Event */
+  --opacity: 100%;
 }
 
 
